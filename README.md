@@ -1,4 +1,12 @@
-PLIK: AntyRecoil_i_bhop_ferro_cs2.lua
+Informację parafialne młodego adepta Ferrusia 😆🤟
+
+SKRYPTY LUA DLA MYSZEK LOGITECH
+
+AntyRecoil v1 z bunnyHopem Ferro
+
+POBIERZ (KLIKNIJ PRAWYM I ZAPISZ JAKO: bunny_ferro_cs2.lua
+
+https://github.com/anonymousik/CS2-LUA-SCRIPT-TEST-ZONE-FERRP/blob/c6ea171d86c66ab5812aa10ccb10937bc9482464/AntyRecoil_i_bhop_ferro_cs2.lua
 
 --[[
 TESTOWY lua skrypt CS2 By FerrONNikomu No-Recoil(AntyODRZUT_FerrONNikomu+BunnyChop_FerrONNikomu!) dla myszek Logitech G PRO
@@ -33,7 +41,11 @@ Nie wiadomo czy wykrywane czy nie !
 Testujesz na własną odpowiedzialność ten wynalazek ryżu xd
 --]]
 
-PLIK: AntyRecoilCS2_unpublic.lua
+AntyRecoilCS2_unpublic.lua
+
+POBIERZ (KLIKNIJ PRAWYM I ZAPISZ JAKO: AntyRecoilCS2_unpublic.lua
+
+https://github.com/anonymousik/CS2-LUA-SCRIPT-TEST-ZONE-FERRP/blob/c6ea171d86c66ab5812aa10ccb10937bc9482464/AntyRecoilCS2_unpublic.lua
 
 -[[
 Adi_Ferromod CS2 AntyOdrzut v2 dla myszek Logitech
@@ -56,7 +68,11 @@ local Activation_Key = 4 -- klawisz do aktywacji/dezaktywacji skryptu, domyślni
 local Selection_Key = 6 -- klawisz do wyboru AntyOdrzutu dla danej broni (scrool w gore i dol)
 -- [[ USTAWIENIA Klawiszy ]] --
 
-PLIK: bunnyhop_ferro_cs2.lua
+bunnyhop_ferro_cs2.lua
+
+POBIERZ (KLIKNIJ PRAWYM I ZAPISZ JAKO: bunny_ferro_cs2.lua
+
+https://github.com/anonymousik/CS2-LUA-SCRIPT-TEST-ZONE-FERRP/blob/c6ea171d86c66ab5812aa10ccb10937bc9482464/bunnyhop_ferro_cs2.lua
 
 ŚRODKOWY PRZYCISK (SCROOL) - AKTYWACJA/ DEZAKTYWACJA
 LEWY CTR+Scrool_dół(skok) - Turbo Bunny HOOP! (Na płaskiej powierzchni!)
